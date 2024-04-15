@@ -1,4 +1,5 @@
 # Quotivate
+
 ![Quotivate Logo](https://s30.picofile.com/file/8474390226/quotivate_logo.png)
 
 Quotivate is a simple CLI tool built with Node.js that provides users with random inspirational or humorous quotes directly in their terminal. It's a great way to start your day with a dose of motivation or to add a bit of fun to your terminal experience.
@@ -20,6 +21,8 @@ quotivate
 ```
 
 This will display a random quote in your terminal window.
+
+![Quotivate Usage](https://s30.picofile.com/file/8474390568/Recording_2024_04_15_at_21_35_03.gif)
 
 ## Contributing
 
