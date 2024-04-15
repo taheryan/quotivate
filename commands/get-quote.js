@@ -103,11 +103,6 @@ export function getQuote() {
       author: "Rob Siltanen",
     },
     {
-      quote:
-        "The only person you should try to be better than is the person you were yesterday.",
-      author: "Unknown",
-    },
-    {
       quote: "Do what you can with all you have, wherever you are.",
       author: "Theodore Roosevelt",
     },
@@ -180,6 +175,6 @@ export function getQuote() {
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
   console.log(
-    chalk.yellowBright(`${randomQuote.text} - ${randomQuote.author}`)
+    chalk.yellowBright(`${randomQuote.quote} - ${randomQuote.author}`)
   );
 }
