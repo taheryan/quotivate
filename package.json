@@ -1,6 +1,6 @@
 {
   "name": "quotivate",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Receive random inspirational or humorous quotes in the terminal.",
   "main": "index.js",
   "type": "module",
@@ -11,7 +11,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "CLI",
+    "quotes",
+    "motivation",
+    "inspiration",
+    "humor"
+  ],
   "bin": {
     "quotivate": "index.js"
   },
