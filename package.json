@@ -1,6 +1,6 @@
 {
   "name": "quotivate",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Receive random inspirational or humorous quotes in the terminal.",
   "main": "index.js",
   "type": "module",
